@@ -1,12 +1,12 @@
 model/Avion.java
  model.Avion
-zadaci/Zadatak2DodavanjeVrednosti.java
- zadaci.Zadatak2DodavanjeVrednosti
+model/Roba.java
+ model.Roba
 zadaci/Zadatak4BrisanjeVrednosti.java
  zadaci.Zadatak4BrisanjeVrednosti
 zadaci/Zadatak1KreiranjeTabela.java
  zadaci.Zadatak1KreiranjeTabela
+zadaci/Zadatak2DodavanjeVrednosti.java
+ zadaci.Zadatak2DodavanjeVrednosti
 zadaci/Zadatak3IzmenaVrednosti.java
  zadaci.Zadatak3IzmenaVrednosti
-model/Roba.java
- model.Roba

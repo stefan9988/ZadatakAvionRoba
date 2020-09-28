@@ -22,6 +22,8 @@ public class Zadatak2DodavanjeVrednosti {
             avionDao= DaoManager.createDao(connectionSource,Avion.class);
             robaDao= DaoManager.createDao(connectionSource,Roba.class);
 
+
+
             Avion a1=new Avion("avion1",34);
             Avion a2=new Avion("avion2",21);
             avionDao.create(a1);
