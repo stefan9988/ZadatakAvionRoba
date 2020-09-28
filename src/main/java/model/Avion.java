@@ -17,7 +17,7 @@ public class Avion {
     @DatabaseField(columnName = POLJE_RASPON_KRILA,canBeNull = false)
     private int raspon_krila;
     @ForeignCollectionField(columnName = "avion",eager = true)
-    ForeignCollection<Roba> roba;
+    private ForeignCollection<Roba> roba;
 
     public Avion() {
     }
